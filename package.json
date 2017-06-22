@@ -2,7 +2,7 @@
   "name": "restful-api",
   "version": "1.0.0",
   "description": "Create a RESTful API for an object of your choice.",
-  "main": "index.js",
+  "main": "./server/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
