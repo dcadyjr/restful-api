@@ -1,0 +1,22 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Create a RESTful API for an object of your choice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcadyjr/restful-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcadyjr/restful-api/issues"
+  },
+  "homepage": "https://github.com/dcadyjr/restful-api#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
